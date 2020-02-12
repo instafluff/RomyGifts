@@ -1,0 +1,33 @@
+{
+  "name": "romygifts",
+  "version": "1.0.0",
+  "description": "Romantic Gifts Bot for Your Special Valentine!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instafluff/RomyGifts.git"
+  },
+  "keywords": [
+    "Instafluff",
+    "Romance",
+    "Romantic",
+    "Gifts",
+    "Virtual",
+    "Bot",
+    "Twitch",
+    "Chat"
+  ],
+  "author": "Instafluff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/RomyGifts/issues"
+  },
+  "homepage": "https://github.com/instafluff/RomyGifts#readme",
+  "dependencies": {
+    "comfy.js": "^1.0.14",
+    "dotenv": "^8.2.0"
+  }
+}
